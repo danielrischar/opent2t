@@ -19,5 +19,5 @@ export class OpenT2TConstants {
     public static NotImplemented: string = "Not Implemented";
     public static ResourceNotFound: string = "Resource not found";
     public static UnknownHubSubscribeRequest: string = "Unknown subscription request";
-    public static UnknownPlatform: string = "Unknown platform.  The requested platform cannot be translated";
+    public static UnknownPlatform: string = "Unknown platform. The requested platform cannot be translated";
 }
