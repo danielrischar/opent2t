@@ -13,7 +13,7 @@ export class OpenT2TConstants {
     public static InvalidAuthInfoInput: string =
         "Invalid authInfo object. Please provide the existing authInfo object";
     public static InvalidHubId: string = "Invalid hub id";
-    public static InvalidResourceId: string = "Invalid reourceId";
+    public static InvalidResourceId: string = "Invalid resourceId";
     public static MissingTranslator: string = "Cannot find translator module";
     public static MustSubscribeToDevice: string = "Must subscribe to a device";
     public static NotImplemented: string = "Not Implemented";
